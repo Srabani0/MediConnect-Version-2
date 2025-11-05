@@ -7,7 +7,7 @@ MediConnect is a modern single-page healthcare website designed to simplify pati
 ---
 
 ## 🌐 Live Demo (Optional)
-> Add your hosted link here (e.g., GitHub Pages / Netlify / Vercel)
+> (https://srabani0.github.io/MediConnect-Version-2/)
 
 ---
 
@@ -53,7 +53,7 @@ MediConnect is a modern single-page healthcare website designed to simplify pati
 
 1. Download or clone the repository
    ```sh
-   git clone https://github.com/yourusername/MediConnect.git
+   git clone https://github.com/Srabani0/MediConnect-Version-2.git
 Open the project folder
 
 2.Run the index.html file in your browser
