@@ -181,7 +181,7 @@ html {
     width: 100%;
     height: 350px;
     background-color: rgb(11, 158, 6);
-    background-image: url(./store\ baner.png); 
+    background-image: url(./Assets/store\ baner.png); 
     background-size: cover;
     box-shadow: 0 6px 15px green;
     border: 2px solid green;

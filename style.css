@@ -52,7 +52,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background: url('./BgImage4.jpg') no-repeat center center/cover;
+    background: url('./Assets/BgImage4.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
